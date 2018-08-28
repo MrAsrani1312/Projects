@@ -1,0 +1,35 @@
+.content{
+	padding-top: 20%;
+}
+
+.top{
+	background-color: #bbd2f7;
+}
+
+.mid{
+	background-color: #f77327;
+}
+
+.bottom{
+	background-color: #ff6d6d;
+}
+body{
+	font-family: font-family: 'Roboto Slab', serif;
+	font-size: 17px;
+	background-color: #ffe500;
+}
+
+.header{
+	font-weight: 700 ;
+	text-align: center;
+	font-family: 'Comfortaa', cursive;
+	font-size: 15px;
+}
+
+.para-design{
+	padding-top: 10px;
+}
+
+footer{
+	background-color: cyan;
+}

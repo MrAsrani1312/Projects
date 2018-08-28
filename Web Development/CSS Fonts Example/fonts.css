@@ -1,0 +1,20 @@
+h3{
+	font-family: 'Great Vibes', cursive;
+	text-decoration: line-through;
+	text-align: center;
+}
+
+p{
+	font-family: 'Marck Script', cursive;
+	font-size: 20px;
+}
+.even{
+	font-family: 'Satisfy', cursive;
+}
+
+#para1{
+	font-family: "Comic Sans MS";
+}
+body{
+	font-size: 30px;
+}
