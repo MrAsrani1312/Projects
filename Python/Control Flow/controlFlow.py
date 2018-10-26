@@ -1,4 +1,4 @@
-input = input("Enter a number: ")
+input = int(input("Enter a number: "))
 
 if input < 0:
 	print("Negative number")
